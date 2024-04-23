@@ -1,0 +1,51 @@
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+/* Estilo para parágrafos com a classe "destaque"*/
+ .destaque {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+ }
+
+ h2  {
+     color: blueviolet;
+     text-align: right;
+     text-decoration: double;
+ }
+
+p {
+    color: lightslategray;
+}
+ #titulo {
+    color: navy;
+    text-align: center;
+ }
+
+ /* estilo para o*/
+
+nav ul {
+    list-style-type: armenian;
+    padding: 10;
+    background-color: rgb(139, 87, 87) ;
+    text-align: center;
+}
+
+nav ul li {
+    display:flexbox;
+}
+
+nav ul li a {
+text-decoration: overline;
+padding :10px 20px;
+color:black;
+}
+
+footer {
+   background-color: burlywood;
+   text-align: center;
+   padding: 10px;
+
+}
